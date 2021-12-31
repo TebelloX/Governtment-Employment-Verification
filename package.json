@@ -1,0 +1,23 @@
+{
+  "name": "Governtment-Employment-Verification",
+  "version": "1.0.0",
+  "description": "This API allows you to verify if a person is employed in the Public Service or not. If the person is employed in the Public Service (excluding those in the Department of Defence) it will provide you with the name of the department where the person is employed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TebelloX/Governtment-Employment-Verification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TebelloX/Governtment-Employment-Verification/issues"
+  },
+  "homepage": "https://github.com/TebelloX/Governtment-Employment-Verification#readme",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
