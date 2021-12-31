@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/TebelloX/Governtment-Employment-Verification#readme",
   "dependencies": {
+    "express": "^4.17.2",
     "puppeteer": "^13.0.1"
   }
 }
